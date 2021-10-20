@@ -1,0 +1,51 @@
+
+h2
+{
+  color:white !important;
+}
+.Custom-design
+{
+  width: 300px;
+  color:white;
+  background-color: #00ea0f;
+  border-radius: 25px 10px 25px 10px;
+  opacity: 0.9;
+}
+
+.Custom-design:hover{
+  color:white;
+  background-color: #006587;
+}
+.Custom-design i{
+  color:white;
+}
+
+@media only screen and (max-width: 600px) 
+{
+  h2
+{
+  color:white !important;
+  font-size: 14px;
+}
+h4 
+{
+  color:white !important;
+  font-size: 10px;
+}
+.Custom-design
+{
+  width: 100px;
+  color:white;
+  background-color: #00ea0f;
+  border-radius: 25px 10px 25px 10px;
+  opacity: 0.9;
+}
+
+.Custom-design:hover{
+  color:white;
+  background-color: #006587;
+}
+.Custom-design i{
+  color:white;
+}
+}

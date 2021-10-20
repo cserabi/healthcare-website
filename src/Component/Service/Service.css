@@ -1,0 +1,19 @@
+span{
+  color:#00cf0e;
+}
+.button
+{
+  background-color:#006587 !important;
+  color:white;
+  border:0px;
+}
+.button:hover{
+  background-color:rgb(2, 0, 117) !important;
+  color:white;
+}
+.buttonYoutube
+{
+  background-color: black !important;
+  color: white !important;
+  text-decoration: none;
+}

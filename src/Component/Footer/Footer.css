@@ -1,0 +1,13 @@
+.footer-low
+{
+  background-color:#006587;
+  color:white;
+  font-size:18px;
+  padding: 5px;
+}
+.icon-size i
+{
+  font-size: 30px !important;
+  margin: 5px;
+  margin-top: 150px !important;
+}
