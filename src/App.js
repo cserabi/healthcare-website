@@ -22,6 +22,7 @@ function App() {
     <div className="App">
 
       <AuthProvider>
+
         <Router>
           <Header></Header>
           <Switch>

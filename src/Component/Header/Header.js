@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import Navbar from 'react-bootstrap/Navbar'
+import Navbar from 'react-bootstrap/Navbar';
 import useAuth from '../hooks/useAuth';
 import './Header.css';
 // import { Link } from 'react-router-hash-link';

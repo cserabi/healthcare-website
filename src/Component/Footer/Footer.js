@@ -28,7 +28,7 @@ const Footer = () => {
               Healthcare Reference<br />
               HealthcareNet<br />
               eMedicineHealth<br />
-              RxList<br />
+              RxList for healthcare<br />
               OnHealth<br />
               WebMDRx<br />
               First Aid<br />
